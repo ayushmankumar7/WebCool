@@ -7,4 +7,11 @@ Sometimes being incomplete is better.
 2. python3
 
 
-## 
+###  Steps
+
+```
+$ pipenv install -r requirements.txt
+$ pipenv shell
+$ python3 wsgi.py
+
+```
