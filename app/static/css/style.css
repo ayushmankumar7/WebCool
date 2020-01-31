@@ -6,6 +6,10 @@ body{
     overflow: hidden;
 }
 
+.animating{
+    z-index: -1;
+}
+
 .banner1,.banner2,.banner3,.banner4{
     height: 100vh;
     width: 100%;
