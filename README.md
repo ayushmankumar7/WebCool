@@ -15,3 +15,30 @@ $ pipenv shell
 $ python3 wsgi.py
 
 ```
+
+```bash
+
+.
+├── app
+│   ├── main.py
+│   ├── static
+│   │   ├── css
+│   │   │   └── style.css
+│   │   └── img
+│   │       ├── dark.jpg
+│   │       ├── samplelogo.gif
+│   │       ├── shallow.jpg
+│   │       ├── star.jpg
+│   │       └── white.jpg
+│   └── templates
+│       └── index.html
+├── Pipfile
+├── Pipfile.lock
+├── Procfile
+├── README.md
+├── requirements.txt
+├── runtime.txt
+└── wsgi.py
+
+
+```
