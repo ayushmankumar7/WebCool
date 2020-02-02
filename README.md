@@ -43,3 +43,8 @@ $ python3 wsgi.py
 
 
 ```
+
+
+### Credits
+
+Images Downloaded from https://www.pexels.com/
