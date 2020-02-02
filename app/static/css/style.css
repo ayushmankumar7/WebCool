@@ -1,9 +1,10 @@
 body{
-
+    box-sizing: border-box;
     padding: 0;
     margin: 0;
     font-family: sans-serif;
     overflow-x: hidden;
+    
 }
 
 a{
@@ -23,7 +24,7 @@ a{
     top: 0;
 }
 
-img{
+.animating img{
     width: 120%;
     position: absolute;
     left: 50%;
