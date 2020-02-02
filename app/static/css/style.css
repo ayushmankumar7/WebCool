@@ -206,14 +206,22 @@ img{
 .options{
     background-color: #e50914;
     z-index: 10;
+    
     position: absolute;
     height: 50%;
     width: 100%;
     top: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
 }
 
 .options img{
     height: 70%;
+    width: auto;
+    transform: translate(37%, 22%);
+    
 }
 
 .credits{
