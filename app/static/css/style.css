@@ -198,3 +198,25 @@ img{
     transform: translate(0, -42%);
 }
 
+.options{
+    background-color: #e50914;
+    z-index: 10;
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    top: 100%;
+}
+
+.options img{
+    height: 70%;
+}
+
+.credits{
+    background-color: blue;
+    z-index: 10;
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    top: 150%;
+}
+
