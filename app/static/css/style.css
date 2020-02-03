@@ -190,7 +190,6 @@ a{
     position: fixed;
     color: whitesmoke;
     text-shadow: 2px 2px 5px black;
-    background-color: rgba(0,0,0,0.1);
     transform: translate(0, 20%);
     
 }
